@@ -1,0 +1,6 @@
+Pairs Trading or Statistical Arbitrage :
+
+Statistical arbitrage is based on tbe theory that similar instruments  (imagine  two stocks, such a s  Exxon ~Iobil and Cbevron) sbould ~have similarly. If their  relative prices diverge over the short  run, they are likely to converge again. So long as the stocks are still similar, tbe divergence is more likely due to a sbon-term imbalance ~tween the people  buying and selling the instruments  rather 
+than any meaningful fundamental change  that  would warrant a divergence  in prices.
+
+Implementation File : Pair_Trade.java or Pair_Trade.py
